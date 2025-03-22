@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pankaj Kumar Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">I’m currently working on Android</h3>
 
 <p align="left"> <img src="https://innovativemonks.com/img/android-app.jpg" alt="pankaj1415" /> </p>
